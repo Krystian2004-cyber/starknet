@@ -11,7 +11,7 @@ contract Counter {
 
   // Public function to increment the stored_number.
   func increment() {
-    stored_number += 3;
+    stored_number += 34;
   }
 
   // Public function to get the stored_number.
