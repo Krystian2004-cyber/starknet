@@ -6,7 +6,7 @@ contract Counter {
 
   // Constructor function. Initializes the stored_number to 0.
   func init() {
-    stored_number = 0;
+    stored_number = 333;
   }
 
   // Public function to increment the stored_number.
